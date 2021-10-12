@@ -35,6 +35,7 @@ form {
 }
 
 form label {
+  text-align: center;
   display: flex;
   margin-top: 20px;
   font-size: 18px;
@@ -64,7 +65,7 @@ p {
 }
 .para-2 {
   text-align: center;
-  color: white;
+  color: black;
   font-size: 15px;
   margin-top: -10px;
 }
